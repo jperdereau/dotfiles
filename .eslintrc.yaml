@@ -58,7 +58,7 @@ rules:
     consistent-return: "off"
     curly: ["error", "all"]
     default-case: "off"
-    dot-location: ["error", "object"]
+    dot-location: ["error", "property"]
     dot-notation: "error"
     eqeqeq: "error"
     guard-for-in: "error"
