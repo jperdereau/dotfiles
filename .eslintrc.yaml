@@ -217,7 +217,7 @@ rules:
     no-lonely-if: "error"
     no-mixed-operators: "error"
     no-mixed-spaces-and-tabs: ["error", "smart-tabs"]
-    no-multi-assign: "off"
+    no-multi-assign: "error"
     no-multiple-empty-lines: "error"
     no-negated-condition: "error"
     no-nested-ternary: "error"
